@@ -1,0 +1,13 @@
+pillow==7.0.0
+sanic==19.12.2
+aiohttp==3.6.2
+pynacl==1.4.0
+requests==2.25.1
+ipython
+asyncio
+structlog
+colorama
+marshmallow
+marshmallow-oneofschema
+aiohttp
+more-itertools
